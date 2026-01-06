@@ -30,7 +30,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="text-center text-sm text-gray-600 border-t border-white/5 pt-8 flex flex-col items-center gap-2">
-          <p>&copy; {new Date().getFullYear()} Robin Alahyani. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Robin.dsn_. All rights reserved.</p>
           <div className="flex items-center gap-4">
             <p>Designed with love.</p>
             <span className="text-gray-800">|</span>
